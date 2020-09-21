@@ -102,3 +102,7 @@ Very hard:
   Reverse coding challenge.
 
 Advanced:
+* [Open-Lab-06.01](https://github.com/AppsLab2019/Open-Lab-06.01) (27 XP)  
+  Reverse coding challenge.
+* [Open-Lab-07.01](https://github.com/AppsLab2019/Open-Lab-06.01) (30 XP)  
+  Reverse coding challenge.

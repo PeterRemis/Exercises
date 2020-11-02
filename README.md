@@ -218,3 +218,11 @@ Advanced:
 10. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 <br/>
 <br/>
+
+
+
+
+### Bonus example:
+
+* [HousingEstate](https://github.com/AppsLab2020-2BI/HousingEstate) (300 XP)  
+  Úloha systému pre sídliská na precvičenie OOP
